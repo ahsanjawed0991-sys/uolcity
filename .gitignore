@@ -1,0 +1,41 @@
+## Ignore Visual Studio temporary files, build results, and local user settings
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / VS Code / Rider caches
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# .NET build & publish artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+publish/
+TestResults/
+*.nupkg
+*.snupkg
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
